@@ -23,7 +23,7 @@
 ---
 
 ###ตัวอย่าง Input\Output
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 Booking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Standard Room 850 baht. (0=no): 1
@@ -35,9 +35,9 @@ Do you want extra breakfast coupons? (0=no) 2
 Total amount due is 4200 Baht.
 You have to pay deposit 1680 baht.
 Then you need to pay 2520 baht for remaining balance later.
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 ---
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 Booking
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Standard Room 850 baht. (0=no): 1
@@ -49,6 +49,6 @@ Do you want extra breakfast coupons? (0=no) 2
 Total amount due is 4200 Baht.
 You have to pay deposit 1680 baht.
 Then you need to pay 2520 baht for remaining balance later.
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 
