@@ -24,7 +24,7 @@
 ###ตัวอย่าง Input\Output
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Booking
-"~~~~~~~~~~~~~~~~~~~~~~~~~~"
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 Standard Room 850 baht. (0=no): 1
 Delux Room 1,050 baht. (0=no): 1
 Suite Room 1,500 baht.(0=no): 0
@@ -38,7 +38,7 @@ Then you need to pay 2520 baht for remaining balance later.
 ---
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Booking
-"~~~~~~~~~~~~~~~~~~~~~~~~~~"
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 Standard Room 850 baht. (0=no): 1
 Delux Room 1,050 baht. (0=no): 1
 Suite Room 1,500 baht.(0=no): 0
